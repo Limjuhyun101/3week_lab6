@@ -18,10 +18,8 @@ unsigned long lastDHTReadMillis = 0;
 float humidity = 0;
 float temperature = 0;
 
-
 String              user_config_html = "";
         
-
 /*
  *  ConfigPortal library to extend and implement the WiFi connected IOT device
  *
